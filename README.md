@@ -1,0 +1,2 @@
+# BibtexTools
+用于检测BibTeX的MATLAB工具集，包含两个功能：比较BibTeX文件差异和检测未引用文献，和一个读取BibTex的函数。
